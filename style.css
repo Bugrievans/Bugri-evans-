@@ -287,7 +287,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background:("banner.png") no-repeat center;
+    background:url("banner.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 400px;
